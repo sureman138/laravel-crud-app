@@ -1,1 +1,1 @@
-Simple CRUD App for Laravel
+Simple CRUD App created with Laravel
